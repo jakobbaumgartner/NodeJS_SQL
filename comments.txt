@@ -1,0 +1,24 @@
+Databases omogočajo hitrejše pridobivanje podatkov.
+
+#SQL
+-> Imamo tabele, vsak nov id ima svojo vrstico (think excel)
+-> Povezujemo lahko različne vnose v različne tabele.
+-> Vnaprej določena podatkovna polja!
+-> Structured Query Language
+-> Horizontal težko, Vertical easy
+
+-> download MySQL 
+
+#NoSQL
+-> Nimamo fixne strukture, vedno istih polj.
+-> Dokumenti niso povezani, pač pa gledamo glede na podvojena polja, kje so povezave.
+-> Easyer horizontal scalling
+
+#Horizontal vs Vertical Scaling
+
+Horizontal
+-> dodatmo več serverjev, razdelimo datoteke po serverjih
+
+Vertical
+-> dodamo več processorske moči, ram ... ojačamo serverjer
+
